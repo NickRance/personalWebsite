@@ -71,9 +71,9 @@
       "path---bio-html-484483126934e0805e95.js.map"
     ],
     "app": [
-      "app-39ea28c4f7545e86e400.js",
+      "app-0d047b268c4471ae8f40.js",
       "build-js-styles.css",
-      "app-39ea28c4f7545e86e400.js.map",
+      "app-0d047b268c4471ae8f40.js.map",
       "build-js-styles.css.map"
     ],
     "path---hello-world-html": [
@@ -83,14 +83,6 @@
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-about-js": [
-      "component---src-pages-about-js-af79c0b8a0b789d42165.js",
-      "component---src-pages-about-js-af79c0b8a0b789d42165.js.map"
-    ],
-    "path---about": [
-      "path---about-a0e39f21c11f6a62c5ab.js",
-      "path---about-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
