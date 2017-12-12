@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{"./node_modules/json-loader/index.js!./.cache/json/layout-index.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"NFR"}}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{109:function(t,a){t.exports={data:{site:{siteMetadata:{title:"NFR"}}},layoutContext:{}}}});
 //# sourceMappingURL=path----fbfa99ac5e9acc49a7c9.js.map
