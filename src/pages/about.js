@@ -2,6 +2,6 @@ import React from "react"
 
 export default ({ data }) => {
     return (
-       'Hello World'
+        'BIO Goes here'
     )
 }

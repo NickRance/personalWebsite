@@ -11,22 +11,33 @@ export default class Template extends React.Component {
   };
 
   render() {
-    const { location } = this.props;
+    const { data, location } = this.props;
 
     const isRoot = location.pathname === '/';
-
+  const ListLink = props => (
+      <Link to={props.to} style={{
+          display:'inline-block',
+          marginRight: '1rem',
+          color: 'white',
+          textDecoration: 'none',
+      }}>
+          {props.children}
+      </Link>
+  )
     return (
       <div>
         <Helmet
-          title="Gatsby Default (Blog) Starter"
-          meta={[
-            { name: 'description', content: 'Sample' },
-            { name: 'keywords', content: 'sample, something' },
-          ]}
+          title={data.site.siteMetadata.title}
+          //Old meta config below
+          // meta={[
+          //   { name: 'description', content: 'Sample' },
+          //   { name: 'keywords', content: 'sample, something' },
+          // ]}
+          meta={data.site.siteMetadata.meta}
         />
         <div
           style={{
-            background: `rebeccapurple`,
+            background: `#2196F3`,
             marginBottom: `1.45rem`,
           }}
         >
@@ -45,8 +56,12 @@ export default class Template extends React.Component {
                   textDecoration: 'none',
                 }}
               >
-                Gatsby Blog
+                  {data.site.siteMetadata.title}
               </Link>
+                <ul style={{ listStyle: `none`, float: `right` }}>
+                    <ListLink to="/bio.html">About</ListLink>
+                    <ListLink to="/blog/">Blog</ListLink>
+                </ul>
             </h1>
           </div>
         </div>
@@ -64,3 +79,13 @@ export default class Template extends React.Component {
     );
   }
 }
+
+export const query = graphql`
+  query LayoutQuery {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+  }
+`
