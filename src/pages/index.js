@@ -13,8 +13,8 @@ export default ({ data }) => {
             }}
             options={{
                 username: 'Nick_Rance',
-                height: '400',
-                width: '800',
+                height: '95vh',
+                width: '1000',
             }}
             onLoad={() => console.log('Timeline is loaded!')}
         />

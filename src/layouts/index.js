@@ -28,7 +28,7 @@ export default class Template extends React.Component {
       <div>
         <Helmet
           title={data.site.siteMetadata.title}
-          //Old meta config below
+          // Old meta config below
           // meta={[
           //   { name: 'description', content: 'Sample' },
           //   { name: 'keywords', content: 'sample, something' },
@@ -56,7 +56,8 @@ export default class Template extends React.Component {
                   textDecoration: 'none',
                 }}
               >
-                  {data.site.siteMetadata.title}
+              Home
+                  {/*data.site.siteMetadata.title*/}
               </Link>
                 <ul style={{ listStyle: `none`, float: `right` }}>
                     <ListLink to="/bio.html">About</ListLink>
