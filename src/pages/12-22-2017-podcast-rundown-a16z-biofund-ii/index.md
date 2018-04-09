@@ -12,7 +12,7 @@ For my first blog post I'm going to be summarizing a16z's Taking the Pulse on Bi
 
 ###The takeaway
 
-"We are looking for companies where the science risk has been removed or greatly derisked" - [@Vijay](twitter.com/VijayPande)
+"We are looking for companies where the science risk has been removed or greatly derisked" - [@Vijay](//twitter.com/VijayPande)
 
 Bio Technology Trajectory
 
@@ -27,7 +27,7 @@ You can split the bio space into two categories of companies: high science risk 
 
 There is a crucial shift in the way biological advances will be made and a16z wants to help the companies who change the way bio is done and make profits while doing so.The Shift is from empirical science to an engineering discipline for Bio
 
-Before we talk about the future of bio let's talk about the way it's being practiced now. 
+Before we talk about the future of bio let's talk about the way it's being practiced now.
 1. Our understanding of underlying biological mechanisms is limited
 
 2. Developing new therapies is costly wrt time and capital
@@ -55,13 +55,13 @@ In contrast we have a poor understanding of what drives Alzheimer's and so peopl
 
 #####On The FDA
 
-The partners found that FDA was helpful legislatively in allowing innovations in healthspace. E.g. first gene therapy approval and first digital health treatment approval. 
+The partners found that FDA was helpful legislatively in allowing innovations in healthspace. E.g. first gene therapy approval and first digital health treatment approval.
 "Regulatory risk is a euphemism for scientific risk."
  Gene therapy was believed to be incredibly risky but was shown to be very effective in treating a form of inheritable blindness so that the FDA panel approved the treatment unanimously - a 13-0 vote
 
 #####On Network Effects
 
-PatientPing - Reduces patient risk. Let's HC providers know when one of their patients get treatment at any other provider. The more subscribers and providers they have the more granularly you can track your patients
+PatientPing - Reduces patient risk. Let's HC providers know when one of their patients get treatment at any other provider. The more subscribers and providers they have the more granularly they can track their patients
 
 Network Effects make companies more defendable. Data network effects are newer than parents. Freenome or Cardiogram get more data with more customers then their tests get more accurate then they get a better product which gets them more customers
 
@@ -97,4 +97,4 @@ Vijay: The opportunity is that you can design therapeutics that have no toxicity
 
 ###My notes
 
-Vijay really emphasizes having the domain expertise in biology and computer science. [Gabe](twitter.com/gabeotte) of [Freenome](freenome.com) worked at Apple as a SE in addition to studying molecular biology
+Vijay really emphasizes having the domain expertise in biology and computer science. [Gabe](//twitter.com/gabeotte) of [Freenome](//freenome.com) worked at Apple as a SE in addition to studying molecular biology
