@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "path---tags-books-2018": [
-      "path---tags-books-2018-764e58ff5cdcd114370c.js",
-      "path---tags-books-2018-764e58ff5cdcd114370c.js.map"
+      "path---tags-books-2018-56efcde93e3afad25df9.js",
+      "path---tags-books-2018-56efcde93e3afad25df9.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-fc66ec56dec39b166292.js",
-      "component---src-pages-index-js-fc66ec56dec39b166292.js.map"
+      "component---src-pages-index-js-725fa55fa9f1129d304b.js",
+      "component---src-pages-index-js-725fa55fa9f1129d304b.js.map"
     ],
     "path---blog": [
       "path---blog-097d9998a603cf81ed3f.js",
@@ -21,20 +21,20 @@
       "path---tags-bff45707e6edde90ae26.js.map"
     ],
     "path---": [
-      "path----fbfa99ac5e9acc49a7c9.js",
-      "path----fbfa99ac5e9acc49a7c9.js.map"
+      "path----8a83aee5d16f78aa06d2.js",
+      "path----8a83aee5d16f78aa06d2.js.map"
     ],
     "path---podcast-rundown-a-16-z-biofund-ii-html": [
-      "path---podcast-rundown-a-16-z-biofund-ii-html-36213664fb306250b75b.js",
-      "path---podcast-rundown-a-16-z-biofund-ii-html-36213664fb306250b75b.js.map"
+      "path---podcast-rundown-a-16-z-biofund-ii-html-f9c1dc6f1ee6f1fe6e8e.js",
+      "path---podcast-rundown-a-16-z-biofund-ii-html-f9c1dc6f1ee6f1fe6e8e.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-1e08614fcf0b2d42cc34.js",
       "component---src-templates-blog-post-js-1e08614fcf0b2d42cc34.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-c929a806cd3f5261efea.js",
-      "component---src-layouts-index-js-c929a806cd3f5261efea.js.map"
+      "component---src-layouts-index-js-80339cca0cae37c864a5.js",
+      "component---src-layouts-index-js-80339cca0cae37c864a5.js.map"
     ],
     "path---tags-helloworld": [
       "path---tags-helloworld-4692eafed9d107612a34.js",
