@@ -28,3 +28,8 @@ Now that's a President who could write a book called "The Art of the Deal"
 
 ###Black Swan - Nassim Nicholas Taleb
 <img src ='http://www.inboundandagile.com/wp-content/uploads/2012/10/Black-Swan-226x348.jpg' alt ="To Move The World" style="width:400px"/>
+
+
+###The Three Body Problem - Liu Cixin
+
+###The Autobiography of Malcolm X
