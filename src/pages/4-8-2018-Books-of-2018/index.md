@@ -27,8 +27,19 @@ Now that's a President who could write a book called "The Art of the Deal"
 </a>
 
 ###Black Swan - Nassim Nicholas Taleb
-<img src ='http://www.inboundandagile.com/wp-content/uploads/2012/10/Black-Swan-226x348.jpg' alt ="To Move The World" style="width:400px"/>
+<img src ='http://www.inboundandagile.com/wp-content/uploads/2012/10/Black-Swan-226x348.jpg' alt ="NNT" style="width:400px"/>
 
+* The Narrative Fallacy - or trying to predict ice cubes from puddles
+* Don't be a turkey
+* Expose yourself to positive black swans (BS) and limit your exposure to negative black swans
+* Serendipity is a strategy
+* Antifragility and Robustness are different, both are important though
+* Ludic Fallacy - Casinos are not real places of risk
+* You can't compute the probability of rare events
+* The way a risk is framed affects your understanding of it, check out different frames
+* Where do my tools help and where would they end up inflicting harm?
+* A map of the amazon when flying over the Caribbean is unhelpful, harmful is the pilot thinks the map is useful
+* How to be successful? Just minimize your mistakes!
 
 ###The Three Body Problem - Liu Cixin
 
