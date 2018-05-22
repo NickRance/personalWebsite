@@ -30,7 +30,7 @@ Now that's a President who could write a book called "The Art of the Deal"
 <img src ='http://www.inboundandagile.com/wp-content/uploads/2012/10/Black-Swan-226x348.jpg' alt ="NNT" style="width:400px"/>
 
 * The Narrative Fallacy - or trying to predict ice cubes from puddles
-* Don't be a turkey
+* "Don't be a turkey or a sucker neither!" - Fat Tony, probably
 * Expose yourself to positive black swans (BS) and limit your exposure to negative black swans
 * Serendipity is a strategy
 * Antifragility and Robustness are different, both are important though
