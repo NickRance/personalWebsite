@@ -41,6 +41,12 @@ Now that's a President who could write a book called "The Art of the Deal"
 * A map of the amazon when flying over the Caribbean is unhelpful, harmful is the pilot thinks the map is useful
 * How to be successful? Just minimize your mistakes!
 
-###The Three Body Problem - Liu Cixin
+###The Three Body Problem Series - Liu Cixin
+
+<img src='https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/6/54/654d88ca-5356-11e5-9aca-6372fb69cd82/55ea1e9fa15d1.image.jpg' alt ="The Dark Forest" style="width:400px"/>
+
+Absolutely wonderful science fiction book. The exploration of the world (particularly the world of the Three Body simulation) was a joy to read. It was great shifting scales from the microuniverse to the macrouniverse and moving forward and backward in time.
+
+
 
 ###The Autobiography of Malcolm X
